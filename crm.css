@@ -17,6 +17,7 @@
 	font-size: 30px;
 	line-height: 30px;
 }
+
 .A-v2-header-bugfix{
 	font-size: 35px;
 	line-height: 35px;
@@ -25,3 +26,16 @@
 	font-size: 40px;
 	line-height: 40px;
 }
+
+
+/**
+ * 商机
+ */
+.B-crm-v2-header{
+	background: #f60;
+}
+.B-crm-v2-foot{
+	background: #f60;
+}
+
+
